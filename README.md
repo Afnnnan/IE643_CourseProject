@@ -9,7 +9,7 @@ This project is part of the **IE643 course** and focuses on the **unsupervised e
 > - [ESRGAN](https://github.com/xinntao/ESRGAN)
 
 > **Reference to Notebook**: For implementation details, refer to the complete code in this notebook:  
-> [22b2505_IE_643_project.ipynb](22b2505_IE_643_project.ipynb).
+> [22b2505_IE_643project.ipynb](22b2505_IE643_project.ipynb).
 
 ---
 
