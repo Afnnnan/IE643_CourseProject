@@ -8,9 +8,7 @@ This project is part of the **IE643 course** and focuses on the **unsupervised e
 > - [SCI](https://github.com/tengyu1998/SCI)
 > - [ESRGAN](https://github.com/xinntao/ESRGAN)
 
-> **Reference to Notebook**: For implementation details, refer to the complete code in this notebook:  
-> [22b2505_IE_643project.ipynb](22b2505_IE643_project.ipynb).
-
+> For implementation details, refer to the complete code in the notebook: [Notebook.ipynb](Notebook.ipynb) and for further details, consult the report: [Report.pdf](Report.pdf).  
 ---
 
 ## **Implementation Steps**  
@@ -54,24 +52,6 @@ Below is an example of the project's output:
 
 
 ![Results](img.png)
-
----
-
-### **5. Novel Additions**  
-
-#### **5.1. Low-Light Video Enhancement**  
-Extending the project to videos allows the processing of each frame in a video stream for improved clarity in dynamic scenes. This is useful for:  
-- Video editing.  
-- Real-time visibility enhancement in **security or surveillance applications**.  
-
-
----
-
-#### **5.2. Low-Light Object Detection**  
-Enhanced images are useful for improving object detection performance in low-light conditions. This has practical applications in:  
-- **Surveillance Cameras**: Identifying intruders in poorly lit areas.  
-- **Wildlife Monitoring**: Observing animals in their natural habitats.  
-- **Autonomous Driving**: Enhancing visibility during nighttime driving.
 
 ---
 
